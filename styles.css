@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+#countlabel {
+  font-size: 48px;
+  margin-bottom: 20px;
+  display: block;
+}
+
+.buttons {
+  padding: 10px 20px;
+  margin: 5px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#increase {
+  background-color: #4CAF50;
+  color: white;
+}
+
+#decrease {
+  background-color: #e74c3c;
+  color: white;
+}
+
+#reset {
+  background-color: #3498db;
+  color: white;
+}
